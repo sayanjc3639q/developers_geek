@@ -9,7 +9,7 @@ const Navbar = () => {
           <a href="#resources" className="px-4 hover:text-gray-300">Resources</a>
           <a href="#blog" className="px-4 hover:text-gray-300">Blog</a>
           <a href="#login" className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
-            Login
+            Login.
           </a>
         </div>
       </div>
