@@ -11,6 +11,7 @@ export default function Home() {
         <p className="mt-4 text-lg text-gray-600">
           Content will be loaded here soon...
         </p>
+        <p>Please Wait</p>
       </div>
     </main>
   );
